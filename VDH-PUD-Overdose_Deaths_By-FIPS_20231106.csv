@@ -1,0 +1,666 @@
+Death Year,VA FIPS,Locality Name,Drug Class Legend,Death Count,Death Rate
+2017,51001,Accomack County,All-drug,4,12.3
+2017,51003,Albemarle County,All-drug,8,7.4
+2017,51005,Alleghany County,All-drug,3,19.8
+2017,51007,Amelia County,All-drug,1,7.7
+2017,51009,Amherst County,All-drug,1,3.2
+2017,51011,Appomattox County,All-drug,0,0
+2017,51013,Arlington County,All-drug,19,8.1
+2017,51015,Augusta County,All-drug,14,18.6
+2017,51017,Bath County,All-drug,0,0
+2017,51019,Bedford County,All-drug,17,21.8
+2017,51021,Bland County,All-drug,2,31.5
+2017,51023,Botetourt County,All-drug,3,9
+2017,51025,Brunswick County,All-drug,5,30.8
+2017,51027,Buchanan County,All-drug,6,27.9
+2017,51029,Buckingham County,All-drug,1,5.9
+2017,51031,Campbell County,All-drug,7,12.7
+2017,51033,Caroline County,All-drug,8,26.3
+2017,51035,Carroll County,All-drug,5,16.8
+2017,51036,Charles City,All-drug,1,14.3
+2017,51037,Charlotte County,All-drug,1,8.3
+2017,51041,Chesterfield County,All-drug,72,21
+2017,51043,Clarke County,All-drug,2,13.8
+2017,51045,Craig County,All-drug,0,0
+2017,51047,Culpeper County,All-drug,24,46.8
+2017,51049,Cumberland County,All-drug,3,30.6
+2017,51051,Dickenson County,All-drug,5,33.8
+2017,51053,Dinwiddie County,All-drug,4,14.2
+2017,51057,Essex County,All-drug,0,0
+2017,51059,Fairfax County,All-drug,113,9.8
+2017,51061,Fauquier County,All-drug,18,25.9
+2017,51063,Floyd County,All-drug,3,19
+2017,51065,Fluvanna County,All-drug,2,7.6
+2017,51067,Franklin County,All-drug,8,14.2
+2017,51069,Frederick County,All-drug,17,19.7
+2017,51071,Giles County,All-drug,6,35.6
+2017,51073,Gloucester County,All-drug,9,24.1
+2017,51075,Goochland County,All-drug,3,13.2
+2017,51077,Grayson County,All-drug,0,0
+2017,51079,Greene County,All-drug,3,15.3
+2017,51081,Greensville County,All-drug,5,42.8
+2017,51083,Halifax County,All-drug,1,2.9
+2017,51085,Hanover County,All-drug,24,22.7
+2017,51087,Henrico County,All-drug,65,19.8
+2017,51089,Henry County,All-drug,12,23.4
+2017,51091,Highland County,All-drug,0,0
+2017,51093,Isle of Wight County,All-drug,6,16.4
+2017,51095,James City,All-drug,10,13.2
+2017,51097,King and Queen County,All-drug,1,14.3
+2017,51099,King George County,All-drug,11,41.8
+2017,51101,King William County,All-drug,6,35.9
+2017,51103,Lancaster County,All-drug,2,18.5
+2017,51105,Lee County,All-drug,5,21
+2017,51107,Loudoun County,All-drug,30,7.5
+2017,51109,Louisa County,All-drug,7,19.5
+2017,51111,Lunenburg County,All-drug,0,0
+2017,51113,Madison County,All-drug,2,15.1
+2017,51115,Mathews County,All-drug,2,22.8
+2017,51117,Mecklenburg County,All-drug,5,16.3
+2017,51119,Middlesex County,All-drug,6,56.2
+2017,51121,Montgomery County,All-drug,12,12.2
+2017,51125,Nelson County,All-drug,4,26.8
+2017,51127,New Kent County,All-drug,8,36.9
+2017,51131,Northampton County,All-drug,3,25.3
+2017,51133,Northumberland County,All-drug,3,24.4
+2017,51135,Nottoway County,All-drug,0,0
+2017,51137,Orange County,All-drug,8,22.2
+2017,51139,Page County,All-drug,3,12.6
+2017,51141,Patrick County,All-drug,1,5.7
+2017,51143,Pittsylvania County,All-drug,7,11.4
+2017,51145,Powhatan County,All-drug,8,28
+2017,51147,Prince Edward County,All-drug,2,8.8
+2017,51149,Prince George County,All-drug,10,26.4
+2017,51153,Prince William County,All-drug,68,14.7
+2017,51155,Pulaski County,All-drug,11,32.2
+2017,51157,Rappahannock County,All-drug,0,0
+2017,51159,Richmond County,All-drug,2,22.4
+2017,51161,Roanoke County,All-drug,22,23.5
+2017,51163,Rockbridge County,All-drug,2,8.8
+2017,51165,Rockingham County,All-drug,8,10
+2017,51167,Russell County,All-drug,5,18.5
+2017,51169,Scott County,All-drug,1,4.6
+2017,51171,Shenandoah County,All-drug,10,23.1
+2017,51173,Smyth County,All-drug,6,19.6
+2017,51175,Southampton County,All-drug,1,5.6
+2017,51177,Spotsylvania County,All-drug,22,16.5
+2017,51179,Stafford County,All-drug,18,12.3
+2017,51181,Surry County,All-drug,2,30.6
+2017,51183,Sussex County,All-drug,3,26.4
+2017,51185,Tazewell County,All-drug,9,21.9
+2017,51187,Warren County,All-drug,15,37.9
+2017,51191,Washington County,All-drug,11,20.2
+2017,51193,Westmoreland County,All-drug,8,45
+2017,51195,Wise County,All-drug,20,51.8
+2017,51197,Wythe County,All-drug,7,24.2
+2017,51199,York County,All-drug,7,10.3
+2017,51510,Alexandria City,All-drug,15,9.4
+2017,51520,Bristol City,All-drug,1,6
+2017,51530,Buena Vista City,All-drug,1,15.8
+2017,51540,Charlottesville City,All-drug,6,12.5
+2017,51550,Chesapeake City,All-drug,46,19.1
+2017,51570,Colonial Heights City,All-drug,8,44.9
+2017,51580,Covington City,All-drug,7,126.6
+2017,51590,Danville City,All-drug,5,12.2
+2017,51595,Emporia City,All-drug,0,0
+2017,51600,Fairfax City,All-drug,6,24.9
+2017,51610,Falls Church City,All-drug,6,41.1
+2017,51620,Franklin City,All-drug,3,36.7
+2017,51630,Fredericksburg City,All-drug,6,21.2
+2017,51640,Galax City,All-drug,1,15.1
+2017,51650,Hampton City,All-drug,20,14.9
+2017,51660,Harrisonburg City,All-drug,8,14.8
+2017,51670,Hopewell City,All-drug,11,48.6
+2017,51678,Lexington City,All-drug,0,0
+2017,51680,Lynchburg City,All-drug,10,12.3
+2017,51683,Manassas City,All-drug,9,21.7
+2017,51685,Manassas Park City,All-drug,4,24.1
+2017,51690,Martinsville City,All-drug,5,38
+2017,51700,Newport News City,All-drug,30,16.7
+2017,51710,Norfolk City,All-drug,61,24.9
+2017,51720,Norton City,All-drug,0,0
+2017,51730,Petersburg City,All-drug,15,47.2
+2017,51735,Poquoson City,All-drug,0,0
+2017,51740,Portsmouth City,All-drug,27,28.5
+2017,51750,Radford City,All-drug,0,0
+2017,51760,Richmond City,All-drug,80,35.2
+2017,51770,Roanoke City,All-drug,48,48.1
+2017,51775,Salem City,All-drug,9,34.8
+2017,51790,Staunton City,All-drug,6,24.5
+2017,51800,Suffolk City,All-drug,10,11.1
+2017,51810,Virginia Beach City,All-drug,74,16.4
+2017,51820,Waynesboro City,All-drug,2,9
+2017,51830,Williamsburg City,All-drug,3,20
+2017,51840,Winchester City,All-drug,7,25.1
+2018,51001,Accomack County,All-drug,5,15.4
+2018,51003,Albemarle County,All-drug,6,5.5
+2018,51005,Alleghany County,All-drug,1,6.7
+2018,51007,Amelia County,All-drug,1,7.7
+2018,51009,Amherst County,All-drug,0,0
+2018,51011,Appomattox County,All-drug,1,6.3
+2018,51013,Arlington County,All-drug,12,5.1
+2018,51015,Augusta County,All-drug,10,13.3
+2018,51017,Bath County,All-drug,1,23.3
+2018,51019,Bedford County,All-drug,8,10.2
+2018,51021,Bland County,All-drug,0,0
+2018,51023,Botetourt County,All-drug,9,27
+2018,51025,Brunswick County,All-drug,3,18.3
+2018,51027,Buchanan County,All-drug,9,42.4
+2018,51029,Buckingham County,All-drug,1,5.9
+2018,51031,Campbell County,All-drug,10,18.2
+2018,51033,Caroline County,All-drug,10,32.5
+2018,51035,Carroll County,All-drug,2,6.7
+2018,51036,Charles City,All-drug,1,14.4
+2018,51037,Charlotte County,All-drug,1,8.4
+2018,51041,Chesterfield County,All-drug,87,25
+2018,51043,Clarke County,All-drug,1,6.9
+2018,51045,Craig County,All-drug,0,0
+2018,51047,Culpeper County,All-drug,14,27
+2018,51049,Cumberland County,All-drug,0,0
+2018,51051,Dickenson County,All-drug,4,27.5
+2018,51053,Dinwiddie County,All-drug,5,17.5
+2018,51057,Essex County,All-drug,2,18.3
+2018,51059,Fairfax County,All-drug,82,7.1
+2018,51061,Fauquier County,All-drug,15,21.2
+2018,51063,Floyd County,All-drug,1,6.3
+2018,51065,Fluvanna County,All-drug,8,29.9
+2018,51067,Franklin County,All-drug,17,30.3
+2018,51069,Frederick County,All-drug,16,18.1
+2018,51071,Giles County,All-drug,1,5.9
+2018,51073,Gloucester County,All-drug,7,18.7
+2018,51075,Goochland County,All-drug,2,8.6
+2018,51077,Grayson County,All-drug,0,0
+2018,51079,Greene County,All-drug,2,10.1
+2018,51081,Greensville County,All-drug,2,17.2
+2018,51083,Halifax County,All-drug,8,23.4
+2018,51085,Hanover County,All-drug,18,16.8
+2018,51087,Henrico County,All-drug,57,17.3
+2018,51089,Henry County,All-drug,14,27.5
+2018,51091,Highland County,All-drug,0,0
+2018,51093,Isle of Wight County,All-drug,7,18.9
+2018,51095,James City,All-drug,9,11.8
+2018,51097,King and Queen County,All-drug,5,71
+2018,51099,King George County,All-drug,10,37.6
+2018,51101,King William County,All-drug,3,17.7
+2018,51103,Lancaster County,All-drug,3,27.8
+2018,51105,Lee County,All-drug,7,29.7
+2018,51107,Loudoun County,All-drug,28,6.9
+2018,51109,Louisa County,All-drug,8,21.8
+2018,51111,Lunenburg County,All-drug,1,8.3
+2018,51113,Madison County,All-drug,3,22.6
+2018,51115,Mathews County,All-drug,1,11.4
+2018,51117,Mecklenburg County,All-drug,10,32.6
+2018,51119,Middlesex County,All-drug,1,9.3
+2018,51121,Montgomery County,All-drug,10,10.1
+2018,51125,Nelson County,All-drug,1,6.7
+2018,51127,New Kent County,All-drug,4,17.9
+2018,51131,Northampton County,All-drug,1,8.5
+2018,51133,Northumberland County,All-drug,1,8.2
+2018,51135,Nottoway County,All-drug,3,19.5
+2018,51137,Orange County,All-drug,12,32.7
+2018,51139,Page County,All-drug,3,12.5
+2018,51141,Patrick County,All-drug,2,11.3
+2018,51143,Pittsylvania County,All-drug,10,16.4
+2018,51145,Powhatan County,All-drug,3,10.3
+2018,51147,Prince Edward County,All-drug,1,4.4
+2018,51149,Prince George County,All-drug,5,13.1
+2018,51153,Prince William County,All-drug,53,11.3
+2018,51155,Pulaski County,All-drug,7,20.5
+2018,51157,Rappahannock County,All-drug,0,0
+2018,51159,Richmond County,All-drug,2,22.1
+2018,51161,Roanoke County,All-drug,17,18.1
+2018,51163,Rockbridge County,All-drug,2,8.8
+2018,51165,Rockingham County,All-drug,3,3.7
+2018,51167,Russell County,All-drug,1,3.7
+2018,51169,Scott County,All-drug,4,18.6
+2018,51171,Shenandoah County,All-drug,6,13.8
+2018,51173,Smyth County,All-drug,1,3.3
+2018,51175,Southampton County,All-drug,3,17.1
+2018,51177,Spotsylvania County,All-drug,29,21.6
+2018,51179,Stafford County,All-drug,22,14.7
+2018,51181,Surry County,All-drug,1,15.4
+2018,51183,Sussex County,All-drug,1,8.9
+2018,51185,Tazewell County,All-drug,8,19.6
+2018,51187,Warren County,All-drug,10,25
+2018,51191,Washington County,All-drug,6,11
+2018,51193,Westmoreland County,All-drug,3,16.8
+2018,51195,Wise County,All-drug,10,26.3
+2018,51197,Wythe County,All-drug,2,7
+2018,51199,York County,All-drug,6,8.8
+2018,51510,Alexandria City,All-drug,9,5.6
+2018,51520,Bristol City,All-drug,4,24.3
+2018,51530,Buena Vista City,All-drug,1,16
+2018,51540,Charlottesville City,All-drug,6,12.5
+2018,51550,Chesapeake City,All-drug,40,16.5
+2018,51570,Colonial Heights City,All-drug,9,50.5
+2018,51580,Covington City,All-drug,0,0
+2018,51590,Danville City,All-drug,8,19.7
+2018,51595,Emporia City,All-drug,1,19.5
+2018,51600,Fairfax City,All-drug,2,8.1
+2018,51610,Falls Church City,All-drug,2,13.5
+2018,51620,Franklin City,All-drug,1,12.5
+2018,51630,Fredericksburg City,All-drug,10,34.3
+2018,51640,Galax City,All-drug,0,0
+2018,51650,Hampton City,All-drug,21,15.6
+2018,51660,Harrisonburg City,All-drug,5,9.3
+2018,51670,Hopewell City,All-drug,12,53.1
+2018,51678,Lexington City,All-drug,1,14
+2018,51680,Lynchburg City,All-drug,9,11
+2018,51683,Manassas City,All-drug,8,19.2
+2018,51685,Manassas Park City,All-drug,0,0
+2018,51690,Martinsville City,All-drug,6,46.5
+2018,51700,Newport News City,All-drug,36,20.2
+2018,51710,Norfolk City,All-drug,46,18.8
+2018,51720,Norton City,All-drug,2,50.4
+2018,51730,Petersburg City,All-drug,9,28.5
+2018,51735,Poquoson City,All-drug,0,0
+2018,51740,Portsmouth City,All-drug,27,28.5
+2018,51750,Radford City,All-drug,3,16.4
+2018,51760,Richmond City,All-drug,72,31.5
+2018,51770,Roanoke City,All-drug,48,48
+2018,51775,Salem City,All-drug,6,23.4
+2018,51790,Staunton City,All-drug,3,12
+2018,51800,Suffolk City,All-drug,8,8.8
+2018,51810,Virginia Beach City,All-drug,55,12.2
+2018,51820,Waynesboro City,All-drug,4,17.7
+2018,51830,Williamsburg City,All-drug,0,0
+2018,51840,Winchester City,All-drug,4,14.2
+2019,51001,Accomack County,All-drug,5,15.5
+2019,51003,Albemarle County,All-drug,10,9.1
+2019,51005,Alleghany County,All-drug,1,6.7
+2019,51007,Amelia County,All-drug,7,53.3
+2019,51009,Amherst County,All-drug,7,22.1
+2019,51011,Appomattox County,All-drug,1,6.3
+2019,51013,Arlington County,All-drug,17,7.2
+2019,51015,Augusta County,All-drug,9,11.9
+2019,51017,Bath County,All-drug,0,0
+2019,51019,Bedford County,All-drug,8,10.1
+2019,51021,Bland County,All-drug,1,15.9
+2019,51023,Botetourt County,All-drug,7,20.9
+2019,51025,Brunswick County,All-drug,5,30.8
+2019,51027,Buchanan County,All-drug,6,28.6
+2019,51029,Buckingham County,All-drug,1,5.8
+2019,51031,Campbell County,All-drug,4,7.3
+2019,51033,Caroline County,All-drug,4,13
+2019,51035,Carroll County,All-drug,8,26.9
+2019,51036,Charles City,All-drug,3,43.1
+2019,51037,Charlotte County,All-drug,4,33.7
+2019,51041,Chesterfield County,All-drug,88,24.9
+2019,51043,Clarke County,All-drug,5,34.2
+2019,51045,Craig County,All-drug,0,0
+2019,51047,Culpeper County,All-drug,12,22.8
+2019,51049,Cumberland County,All-drug,2,20.1
+2019,51051,Dickenson County,All-drug,7,48.9
+2019,51053,Dinwiddie County,All-drug,5,17.5
+2019,51057,Essex County,All-drug,0,0
+2019,51059,Fairfax County,All-drug,95,8.3
+2019,51061,Fauquier County,All-drug,18,25.3
+2019,51063,Floyd County,All-drug,2,12.7
+2019,51065,Fluvanna County,All-drug,1,3.7
+2019,51067,Franklin County,All-drug,9,16.1
+2019,51069,Frederick County,All-drug,15,16.8
+2019,51071,Giles County,All-drug,3,17.9
+2019,51073,Gloucester County,All-drug,5,13.4
+2019,51075,Goochland County,All-drug,3,12.6
+2019,51077,Grayson County,All-drug,1,6.4
+2019,51079,Greene County,All-drug,5,25.2
+2019,51081,Greensville County,All-drug,1,8.8
+2019,51083,Halifax County,All-drug,9,26.5
+2019,51085,Hanover County,All-drug,23,21.3
+2019,51087,Henrico County,All-drug,69,20.9
+2019,51089,Henry County,All-drug,16,31.6
+2019,51091,Highland County,All-drug,0,0
+2019,51093,Isle of Wight County,All-drug,6,16.2
+2019,51095,James City,All-drug,7,9.1
+2019,51097,King and Queen County,All-drug,0,0
+2019,51099,King George County,All-drug,9,33.5
+2019,51101,King William County,All-drug,3,17.5
+2019,51103,Lancaster County,All-drug,0,0
+2019,51105,Lee County,All-drug,5,21.3
+2019,51107,Loudoun County,All-drug,28,6.8
+2019,51109,Louisa County,All-drug,15,39.9
+2019,51111,Lunenburg County,All-drug,1,8.2
+2019,51113,Madison County,All-drug,4,30.2
+2019,51115,Mathews County,All-drug,0,0
+2019,51117,Mecklenburg County,All-drug,5,16.3
+2019,51119,Middlesex County,All-drug,1,9.5
+2019,51121,Montgomery County,All-drug,10,10.1
+2019,51125,Nelson County,All-drug,3,20.1
+2019,51127,New Kent County,All-drug,4,17.3
+2019,51131,Northampton County,All-drug,2,17.1
+2019,51133,Northumberland County,All-drug,1,8.3
+2019,51135,Nottoway County,All-drug,3,19.7
+2019,51137,Orange County,All-drug,12,32.4
+2019,51139,Page County,All-drug,6,25.1
+2019,51141,Patrick County,All-drug,4,22.7
+2019,51143,Pittsylvania County,All-drug,14,23.2
+2019,51145,Powhatan County,All-drug,7,23.6
+2019,51147,Prince Edward County,All-drug,2,8.8
+2019,51149,Prince George County,All-drug,6,15.6
+2019,51153,Prince William County,All-drug,66,14
+2019,51155,Pulaski County,All-drug,12,35.3
+2019,51157,Rappahannock County,All-drug,1,13.6
+2019,51159,Richmond County,All-drug,3,33.2
+2019,51161,Roanoke County,All-drug,14,14.9
+2019,51163,Rockbridge County,All-drug,2,8.9
+2019,51165,Rockingham County,All-drug,10,12.2
+2019,51167,Russell County,All-drug,3,11.3
+2019,51169,Scott County,All-drug,2,9.3
+2019,51171,Shenandoah County,All-drug,14,32.1
+2019,51173,Smyth County,All-drug,6,19.9
+2019,51175,Southampton County,All-drug,1,5.7
+2019,51177,Spotsylvania County,All-drug,34,25
+2019,51179,Stafford County,All-drug,34,22.2
+2019,51181,Surry County,All-drug,1,15.6
+2019,51183,Sussex County,All-drug,2,17.9
+2019,51185,Tazewell County,All-drug,18,44.3
+2019,51187,Warren County,All-drug,18,44.8
+2019,51191,Washington County,All-drug,9,16.7
+2019,51193,Westmoreland County,All-drug,9,50
+2019,51195,Wise County,All-drug,13,34.8
+2019,51197,Wythe County,All-drug,4,13.9
+2019,51199,York County,All-drug,14,20.5
+2019,51510,Alexandria City,All-drug,22,13.8
+2019,51520,Bristol City,All-drug,4,23.9
+2019,51530,Buena Vista City,All-drug,0,0
+2019,51540,Charlottesville City,All-drug,6,12.7
+2019,51550,Chesapeake City,All-drug,40,16.3
+2019,51570,Colonial Heights City,All-drug,5,28.8
+2019,51580,Covington City,All-drug,1,18.1
+2019,51590,Danville City,All-drug,11,27.5
+2019,51595,Emporia City,All-drug,0,0
+2019,51600,Fairfax City,All-drug,7,29.1
+2019,51610,Falls Church City,All-drug,1,6.8
+2019,51620,Franklin City,All-drug,1,12.6
+2019,51630,Fredericksburg City,All-drug,4,13.8
+2019,51640,Galax City,All-drug,2,31.5
+2019,51650,Hampton City,All-drug,46,34.2
+2019,51660,Harrisonburg City,All-drug,8,15.1
+2019,51670,Hopewell City,All-drug,10,44.4
+2019,51678,Lexington City,All-drug,1,13.4
+2019,51680,Lynchburg City,All-drug,19,23.1
+2019,51683,Manassas City,All-drug,13,31.6
+2019,51685,Manassas Park City,All-drug,2,11.4
+2019,51690,Martinsville City,All-drug,6,47.8
+2019,51700,Newport News City,All-drug,39,21.8
+2019,51710,Norfolk City,All-drug,49,20.2
+2019,51720,Norton City,All-drug,1,25.1
+2019,51730,Petersburg City,All-drug,18,57.4
+2019,51735,Poquoson City,All-drug,2,16.3
+2019,51740,Portsmouth City,All-drug,34,36
+2019,51750,Radford City,All-drug,1,5.5
+2019,51760,Richmond City,All-drug,102,44.3
+2019,51770,Roanoke City,All-drug,40,40.3
+2019,51775,Salem City,All-drug,8,31.6
+2019,51790,Staunton City,All-drug,3,12
+2019,51800,Suffolk City,All-drug,16,17.4
+2019,51810,Virginia Beach City,All-drug,49,10.9
+2019,51820,Waynesboro City,All-drug,10,44.2
+2019,51830,Williamsburg City,All-drug,4,26.7
+2019,51840,Winchester City,All-drug,11,39.2
+2020,51001,Accomack County,All-drug,6,18.6
+2020,51003,Albemarle County,All-drug,12,10.8
+2020,51005,Alleghany County,All-drug,3,20.4
+2020,51007,Amelia County,All-drug,7,53.8
+2020,51009,Amherst County,All-drug,10,31.6
+2020,51011,Appomattox County,All-drug,3,18.7
+2020,51013,Arlington County,All-drug,31,12.9
+2020,51015,Augusta County,All-drug,14,18.3
+2020,51017,Bath County,All-drug,0,0
+2020,51019,Bedford County,All-drug,19,23.8
+2020,51021,Bland County,All-drug,4,64.1
+2020,51023,Botetourt County,All-drug,7,20.8
+2020,51025,Brunswick County,All-drug,6,37.4
+2020,51027,Buchanan County,All-drug,4,19.4
+2020,51029,Buckingham County,All-drug,1,5.8
+2020,51031,Campbell County,All-drug,12,21.7
+2020,51033,Caroline County,All-drug,12,38.9
+2020,51035,Carroll County,All-drug,4,13.3
+2020,51036,Charles City,All-drug,0,0
+2020,51037,Charlotte County,All-drug,6,50.8
+2020,51041,Chesterfield County,All-drug,100,27.9
+2020,51043,Clarke County,All-drug,0,0
+2020,51045,Craig County,All-drug,2,39.4
+2020,51047,Culpeper County,All-drug,16,29.9
+2020,51049,Cumberland County,All-drug,2,20.1
+2020,51051,Dickenson County,All-drug,6,42.6
+2020,51053,Dinwiddie County,All-drug,9,31.4
+2020,51057,Essex County,All-drug,3,27.4
+2020,51059,Fairfax County,All-drug,97,8.4
+2020,51061,Fauquier County,All-drug,9,12.6
+2020,51063,Floyd County,All-drug,1,6.3
+2020,51065,Fluvanna County,All-drug,2,7.3
+2020,51067,Franklin County,All-drug,21,37.4
+2020,51069,Frederick County,All-drug,24,26.3
+2020,51071,Giles County,All-drug,5,30
+2020,51073,Gloucester County,All-drug,9,24
+2020,51075,Goochland County,All-drug,4,16.4
+2020,51077,Grayson County,All-drug,2,12.9
+2020,51079,Greene County,All-drug,2,9.9
+2020,51081,Greensville County,All-drug,6,53.2
+2020,51083,Halifax County,All-drug,11,32.7
+2020,51085,Hanover County,All-drug,26,24
+2020,51087,Henrico County,All-drug,83,24.9
+2020,51089,Henry County,All-drug,28,55.7
+2020,51091,Highland County,All-drug,0,0
+2020,51093,Isle of Wight County,All-drug,7,18.6
+2020,51095,James City,All-drug,14,18
+2020,51097,King and Queen County,All-drug,4,57.6
+2020,51099,King George County,All-drug,7,25.6
+2020,51101,King William County,All-drug,7,39.7
+2020,51103,Lancaster County,All-drug,4,37.7
+2020,51105,Lee County,All-drug,6,25.8
+2020,51107,Loudoun County,All-drug,32,7.6
+2020,51109,Louisa County,All-drug,9,23.6
+2020,51111,Lunenburg County,All-drug,2,16.3
+2020,51113,Madison County,All-drug,2,15
+2020,51115,Mathews County,All-drug,0,0
+2020,51117,Mecklenburg County,All-drug,9,29.3
+2020,51119,Middlesex County,All-drug,3,28.4
+2020,51121,Montgomery County,All-drug,14,14.2
+2020,51125,Nelson County,All-drug,2,13.6
+2020,51127,New Kent County,All-drug,6,25.4
+2020,51131,Northampton County,All-drug,5,42.8
+2020,51133,Northumberland County,All-drug,1,8.3
+2020,51135,Nottoway County,All-drug,3,19.8
+2020,51137,Orange County,All-drug,11,29.2
+2020,51139,Page County,All-drug,8,33.4
+2020,51141,Patrick County,All-drug,12,68.6
+2020,51143,Pittsylvania County,All-drug,17,28.4
+2020,51145,Powhatan County,All-drug,12,39.8
+2020,51147,Prince Edward County,All-drug,6,26.1
+2020,51149,Prince George County,All-drug,7,18.1
+2020,51153,Prince William County,All-drug,100,21
+2020,51155,Pulaski County,All-drug,12,35.4
+2020,51157,Rappahannock County,All-drug,7,96.4
+2020,51159,Richmond County,All-drug,0,0
+2020,51161,Roanoke County,All-drug,33,34.9
+2020,51163,Rockbridge County,All-drug,6,26.4
+2020,51165,Rockingham County,All-drug,14,17
+2020,51167,Russell County,All-drug,4,15
+2020,51169,Scott County,All-drug,8,37
+2020,51171,Shenandoah County,All-drug,8,18.2
+2020,51173,Smyth County,All-drug,10,33.2
+2020,51175,Southampton County,All-drug,4,22.7
+2020,51177,Spotsylvania County,All-drug,44,31.8
+2020,51179,Stafford County,All-drug,33,21.1
+2020,51181,Surry County,All-drug,1,15.7
+2020,51183,Sussex County,All-drug,1,9.2
+2020,51185,Tazewell County,All-drug,25,61.7
+2020,51187,Warren County,All-drug,20,49.4
+2020,51191,Washington County,All-drug,3,5.6
+2020,51193,Westmoreland County,All-drug,4,22
+2020,51195,Wise County,All-drug,9,24.2
+2020,51197,Wythe County,All-drug,6,21
+2020,51199,York County,All-drug,15,21.7
+2020,51510,Alexandria City,All-drug,20,12.6
+2020,51520,Bristol City,All-drug,4,23.1
+2020,51530,Buena Vista City,All-drug,0,0
+2020,51540,Charlottesville City,All-drug,6,12.8
+2020,51550,Chesapeake City,All-drug,60,24.3
+2020,51570,Colonial Heights City,All-drug,1,5.8
+2020,51580,Covington City,All-drug,2,35.5
+2020,51590,Danville City,All-drug,15,37.6
+2020,51595,Emporia City,All-drug,2,38
+2020,51600,Fairfax City,All-drug,5,21.3
+2020,51610,Falls Church City,All-drug,0,0
+2020,51620,Franklin City,All-drug,1,12.8
+2020,51630,Fredericksburg City,All-drug,16,54.3
+2020,51640,Galax City,All-drug,3,47.6
+2020,51650,Hampton City,All-drug,42,31
+2020,51660,Harrisonburg City,All-drug,7,13.2
+2020,51670,Hopewell City,All-drug,16,71.5
+2020,51678,Lexington City,All-drug,0,0
+2020,51680,Lynchburg City,All-drug,16,19.6
+2020,51683,Manassas City,All-drug,7,17.1
+2020,51685,Manassas Park City,All-drug,1,5.6
+2020,51690,Martinsville City,All-drug,11,89
+2020,51700,Newport News City,All-drug,64,35.7
+2020,51710,Norfolk City,All-drug,75,30.9
+2020,51720,Norton City,All-drug,1,25.1
+2020,51730,Petersburg City,All-drug,29,95.3
+2020,51735,Poquoson City,All-drug,4,32.6
+2020,51740,Portsmouth City,All-drug,46,48.4
+2020,51750,Radford City,All-drug,2,11
+2020,51760,Richmond City,All-drug,126,54.3
+2020,51770,Roanoke City,All-drug,66,66.6
+2020,51775,Salem City,All-drug,12,47.4
+2020,51790,Staunton City,All-drug,4,15.9
+2020,51800,Suffolk City,All-drug,24,25.6
+2020,51810,Virginia Beach City,All-drug,108,23.9
+2020,51820,Waynesboro City,All-drug,7,30.8
+2020,51830,Williamsburg City,All-drug,4,26.2
+2020,51840,Winchester City,All-drug,15,54.2
+2021,51001,Accomack County,All-drug,13,40.3
+2021,51003,Albemarle County,All-drug,18,16.3
+2021,51005,Alleghany County,All-drug,6,40.8
+2021,51007,Amelia County,All-drug,3,23.1
+2021,51009,Amherst County,All-drug,12,37.9
+2021,51011,Appomattox County,All-drug,2,12.5
+2021,51013,Arlington County,All-drug,28,11.7
+2021,51015,Augusta County,All-drug,10,13.1
+2021,51017,Bath County,All-drug,0,0
+2021,51019,Bedford County,All-drug,25,31.3
+2021,51021,Bland County,All-drug,2,32.1
+2021,51023,Botetourt County,All-drug,13,38.7
+2021,51025,Brunswick County,All-drug,8,49.9
+2021,51027,Buchanan County,All-drug,9,43.7
+2021,51029,Buckingham County,All-drug,4,23.3
+2021,51031,Campbell County,All-drug,7,12.7
+2021,51033,Caroline County,All-drug,19,61.6
+2021,51035,Carroll County,All-drug,8,26.6
+2021,51036,Charles City,All-drug,2,29.3
+2021,51037,Charlotte County,All-drug,7,59.2
+2021,51041,Chesterfield County,All-drug,141,39.4
+2021,51043,Clarke County,All-drug,8,54.7
+2021,51045,Craig County,All-drug,1,19.7
+2021,51047,Culpeper County,All-drug,22,41.1
+2021,51049,Cumberland County,All-drug,2,20.1
+2021,51051,Dickenson County,All-drug,7,49.7
+2021,51053,Dinwiddie County,All-drug,10,34.9
+2021,51057,Essex County,All-drug,7,64
+2021,51059,Fairfax County,All-drug,135,11.7
+2021,51061,Fauquier County,All-drug,20,28
+2021,51063,Floyd County,All-drug,4,25.4
+2021,51065,Fluvanna County,All-drug,6,21.9
+2021,51067,Franklin County,All-drug,26,46.3
+2021,51069,Frederick County,All-drug,19,20.9
+2021,51071,Giles County,All-drug,3,18
+2021,51073,Gloucester County,All-drug,12,32
+2021,51075,Goochland County,All-drug,3,12.3
+2021,51077,Grayson County,All-drug,2,12.9
+2021,51079,Greene County,All-drug,3,14.9
+2021,51081,Greensville County,All-drug,3,26.6
+2021,51083,Halifax County,All-drug,17,50.5
+2021,51085,Hanover County,All-drug,29,26.8
+2021,51087,Henrico County,All-drug,130,38.9
+2021,51089,Henry County,All-drug,52,103.4
+2021,51091,Highland County,All-drug,0,0
+2021,51093,Isle of Wight County,All-drug,8,21.2
+2021,51095,James City,All-drug,15,19.3
+2021,51097,King and Queen County,All-drug,5,72
+2021,51099,King George County,All-drug,7,25.6
+2021,51101,King William County,All-drug,10,56.7
+2021,51103,Lancaster County,All-drug,3,28.3
+2021,51105,Lee County,All-drug,3,12.9
+2021,51107,Loudoun County,All-drug,46,10.9
+2021,51109,Louisa County,All-drug,18,47.2
+2021,51111,Lunenburg County,All-drug,3,24.5
+2021,51113,Madison County,All-drug,3,22.5
+2021,51115,Mathews County,All-drug,3,34.2
+2021,51117,Mecklenburg County,All-drug,13,42.4
+2021,51119,Middlesex County,All-drug,5,47.3
+2021,51121,Montgomery County,All-drug,16,16.3
+2021,51125,Nelson County,All-drug,1,6.8
+2021,51127,New Kent County,All-drug,10,42.3
+2021,51131,Northampton County,All-drug,4,34.3
+2021,51133,Northumberland County,All-drug,10,82.9
+2021,51135,Nottoway County,All-drug,5,33
+2021,51137,Orange County,All-drug,17,45.1
+2021,51139,Page County,All-drug,10,41.8
+2021,51141,Patrick County,All-drug,10,57.2
+2021,51143,Pittsylvania County,All-drug,16,26.7
+2021,51145,Powhatan County,All-drug,12,39.8
+2021,51147,Prince Edward County,All-drug,5,21.7
+2021,51149,Prince George County,All-drug,15,38.8
+2021,51153,Prince William County,All-drug,89,18.7
+2021,51155,Pulaski County,All-drug,21,61.9
+2021,51157,Rappahannock County,All-drug,3,41.3
+2021,51159,Richmond County,All-drug,2,22
+2021,51161,Roanoke County,All-drug,37,39.1
+2021,51163,Rockbridge County,All-drug,2,8.8
+2021,51165,Rockingham County,All-drug,8,9.7
+2021,51167,Russell County,All-drug,4,15
+2021,51169,Scott County,All-drug,8,37
+2021,51171,Shenandoah County,All-drug,9,20.5
+2021,51173,Smyth County,All-drug,10,33.2
+2021,51175,Southampton County,All-drug,2,11.3
+2021,51177,Spotsylvania County,All-drug,66,47.7
+2021,51179,Stafford County,All-drug,42,26.8
+2021,51181,Surry County,All-drug,1,15.7
+2021,51183,Sussex County,All-drug,3,27.5
+2021,51185,Tazewell County,All-drug,31,76.5
+2021,51187,Warren County,All-drug,18,44.5
+2021,51191,Washington County,All-drug,19,35.4
+2021,51193,Westmoreland County,All-drug,6,33.1
+2021,51195,Wise County,All-drug,23,61.8
+2021,51197,Wythe County,All-drug,8,28
+2021,51199,York County,All-drug,6,8.7
+2021,51510,Alexandria City,All-drug,23,14.5
+2021,51520,Bristol City,All-drug,6,34.6
+2021,51530,Buena Vista City,All-drug,2,31.2
+2021,51540,Charlottesville City,All-drug,12,25.6
+2021,51550,Chesapeake City,All-drug,59,23.9
+2021,51570,Colonial Heights City,All-drug,15,87.2
+2021,51580,Covington City,All-drug,3,53.2
+2021,51590,Danville City,All-drug,18,45.1
+2021,51595,Emporia City,All-drug,6,114.1
+2021,51600,Fairfax City,All-drug,5,21.3
+2021,51610,Falls Church City,All-drug,3,20.5
+2021,51620,Franklin City,All-drug,3,38.3
+2021,51630,Fredericksburg City,All-drug,15,50.9
+2021,51640,Galax City,All-drug,4,63.5
+2021,51650,Hampton City,All-drug,44,32.5
+2021,51660,Harrisonburg City,All-drug,8,15
+2021,51670,Hopewell City,All-drug,24,107.3
+2021,51678,Lexington City,All-drug,0,0
+2021,51680,Lynchburg City,All-drug,31,38
+2021,51683,Manassas City,All-drug,20,48.9
+2021,51685,Manassas Park City,All-drug,4,22.2
+2021,51690,Martinsville City,All-drug,6,48.6
+2021,51700,Newport News City,All-drug,72,40.2
+2021,51710,Norfolk City,All-drug,112,46.1
+2021,51720,Norton City,All-drug,3,75.3
+2021,51730,Petersburg City,All-drug,39,128.1
+2021,51735,Poquoson City,All-drug,5,40.8
+2021,51740,Portsmouth City,All-drug,79,83.1
+2021,51750,Radford City,All-drug,4,21.9
+2021,51760,Richmond City,All-drug,200,86.1
+2021,51770,Roanoke City,All-drug,77,77.7
+2021,51775,Salem City,All-drug,8,31.6
+2021,51790,Staunton City,All-drug,3,11.9
+2021,51800,Suffolk City,All-drug,33,35.1
+2021,51810,Virginia Beach City,All-drug,114,25.3
+2021,51820,Waynesboro City,All-drug,4,17.6
+2021,51830,Williamsburg City,All-drug,0,0
+2021,51840,Winchester City,All-drug,9,32.5
